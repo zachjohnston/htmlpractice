@@ -1,2 +1,1 @@
-HELLO THANK YUO FOR READING ME THIS IS GOING TO BE MY PRACTICE WEBSITE
-IT WILL BE A COPY OF MY DISCORD ENGINEERING IDEAS PAGE THANK YOU VERY MUCH!
+This is practice with making websites. This site will outline the different projects that I intend on pursuing in the near future.
